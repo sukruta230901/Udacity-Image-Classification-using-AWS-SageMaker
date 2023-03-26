@@ -1,0 +1,6 @@
+.DS_Store
+.tar.gz
+.ipynb_checkpoints
+.temp*
+.workspace-config.json
+**/data/
